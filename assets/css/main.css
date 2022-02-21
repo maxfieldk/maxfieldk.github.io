@@ -3996,7 +3996,7 @@ body.is-mobile #main > header {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url("../../images/hotel_luca_1.jpg");
+    url("../../images/thereservelayout/10 reserve 9.PN");
   background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../../images/thereservelayout/10 reserve 9.PNG");
   background-attachment: fixed;
@@ -4138,7 +4138,7 @@ body.is-mobile #Main_About_Me > header {
 /* Footer */
 
 #footer {
-  padding: 6em 0 4em 0;
+  padding: 2em 0 0.5em 0;
   background-color: #1d242a;
   text-align: center;
 }
