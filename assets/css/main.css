@@ -3975,6 +3975,166 @@ body.is-mobile #main > header {
   background-attachment: scroll;
 }
 
+/* Main_Residential*/
+
+#Main_Residential > header {
+  padding: 12em 0 10em 0;
+  background-image: -moz-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../../images/thereservelayout/10 reserve 9.PNG");
+  background-image: -webkit-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../../images/thereservelayout/10 reserve 9.PNG");
+  background-image: -ms-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../../images/hotel_luca_1.jpg");
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../images/thereservelayout/10 reserve 9.PNG");
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+#Main_Residential > header h2 {
+  font-size: 1.75em;
+  margin: 0 0 0.5em 0;
+}
+
+#Main_Residential > header p {
+  color: inherit;
+  letter-spacing: 0.225em;
+  text-transform: uppercase;
+  top: 0;
+}
+
+#Main_Residential > header p a {
+  color: inherit;
+}
+
+@media screen and (max-width: 1680px) {
+  #Main_Residential > header {
+    padding: 10em 0 8em 0;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  #Main_Residential > header {
+    padding: 8em 3em 6em 3em;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  #Main_Residential > header {
+    padding: 10em 3em 8em 3em;
+  }
+}
+
+@media screen and (max-width: 736px) {
+  #Main_Residential > header {
+    padding: 5em 3em 3em 3em;
+  }
+
+  #Main_Residential > header h2 {
+    font-size: 1.25em;
+    margin: 0 0 1em 0;
+  }
+}
+
+body.is-mobile #Main_Residential > header {
+  background-attachment: scroll;
+}
+
+/* Main_About_Me*/
+
+#Main_About_Me > header {
+  padding: 12em 0 10em 0;
+  background-image: -moz-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../../images/mannix/20 Kelsey s house.jpg");
+  background-image: -webkit-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../../images/mannix/20 Kelsey s house.jpg");
+  background-image: -ms-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../../images/hotel_luca_1.jpg");
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../images/mannix/20 Kelsey s house.jpg");
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+#Main_About_Me > header h2 {
+  font-size: 1.75em;
+  margin: 0 0 0.5em 0;
+}
+
+#Main_About_Me > header p {
+  color: inherit;
+  letter-spacing: 0.225em;
+  text-transform: uppercase;
+  top: 0;
+}
+
+#Main_About_Me > header p a {
+  color: inherit;
+}
+
+@media screen and (max-width: 1680px) {
+  #Main_About_Me > header {
+    padding: 10em 0 8em 0;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  #Main_About_Me > header {
+    padding: 8em 3em 6em 3em;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  #Main_About_Me > header {
+    padding: 10em 3em 8em 3em;
+  }
+}
+
+@media screen and (max-width: 736px) {
+  #Main_About_Me > header {
+    padding: 5em 3em 3em 3em;
+  }
+
+  #Main_About_Me > header h2 {
+    font-size: 1.25em;
+    margin: 0 0 1em 0;
+  }
+}
+
+body.is-mobile #Main_About_Me > header {
+  background-attachment: scroll;
+}
+
 /* Footer */
 
 #footer {
@@ -4046,6 +4206,86 @@ body.is-mobile #main > header {
   #footer {
     padding: 3em 2em 1em 2em;
   }
+}
+
+/* Main_Buisness*/
+
+#Main_Buisness > header {
+  padding: 12em 0 10em 0;
+  background-image: -moz-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../../images/zenyaralayout/Zenyara_1.jpg");
+  background-image: -webkit-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../../images/zenyaralayout/Zenyara_1.jpg");
+  background-image: -ms-linear-gradient(
+      top,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../../images/hotel_luca_1.jpg");
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../images/zenyaralayout/Zenyara_1.jpg");
+  background-attachment: fixed;
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+#Main_Buisness > header h2 {
+  font-size: 1.75em;
+  margin: 0 0 0.5em 0;
+}
+
+#Main_Buisness > header p {
+  color: inherit;
+  letter-spacing: 0.225em;
+  text-transform: uppercase;
+  top: 0;
+}
+
+#Main_Buisness > header p a {
+  color: inherit;
+}
+
+@media screen and (max-width: 1680px) {
+  #Main_Buisness > header {
+    padding: 10em 0 8em 0;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  #Main_Buisness > header {
+    padding: 8em 3em 6em 3em;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  #Main_Buisness > header {
+    padding: 10em 3em 8em 3em;
+  }
+}
+
+@media screen and (max-width: 736px) {
+  #Main_Buisness > header {
+    padding: 5em 3em 3em 3em;
+  }
+
+  #Main_Buisness > header h2 {
+    font-size: 1.25em;
+    margin: 0 0 1em 0;
+  }
+}
+
+body.is-mobile #Main_Buisness > header {
+  background-attachment: scroll;
 }
 
 /* Landing */
